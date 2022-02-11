@@ -15,8 +15,8 @@
     include 'inc/Restoran-Türleri.php';
     ?>
 
-    
-		
+      
+		 
 		
 <section class="ftco-section">
 			<div class="container">
